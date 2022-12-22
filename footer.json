@@ -1,0 +1,351 @@
+{
+    "about": [
+        {
+            "linkMetaId": "aboutUs",
+            "link": "/es/en/company.html?device=app",
+            "text": "{mainFooter_aboutUs_title}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": false,
+            "section": "about"
+        },
+        {
+            "linkMetaId": "joinlife",
+            "link": "/es/en/pag/joinlife.html?device=app",
+            "text": "Join Life",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": false,
+            "section": "about"
+        },
+        {
+            "linkMetaId": "careers",
+            "link": "https://www.inditexcareers.com/portalweb/en/web/joinfashion/home?utm_source=bershka.com&utm_medium=ecommerce",
+            "text": "{moreMenuPage_about_workWithUs}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "openBrowser",
+            "tsquery": false,
+            "section": "about"
+        },
+        {
+            "linkMetaId": "affinity",
+            "link": "https://www.affinitycard.es/local_tlaf/login_tlaf_affinity_CAS.html",
+            "text": "{mainFooter_links_affinity}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "openBrowser",
+            "tsquery": false,
+            "section": "about"
+        },
+        {
+            "linkMetaId": "press",
+            "link": "https://press.bershka.com/",
+            "text": "{mainFooter_links_press}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "openBrowser",
+            "tsquery": false,
+            "section": "about"
+        },
+        {
+            "linkMetaId": "openStoreLocator",
+            "link": "/es/en/store-locator.html?device=app",
+            "text": "{mainFooter_links_storeLocator}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "openStoreLocator",
+            "tsquery": false,
+            "section": "about"
+        }
+    ],
+    "shoppingGuide": [
+        {
+            "linkMetaId": "generalInfo",
+            "link": "/es/en/shopping-guide.html?section=general-info&device=app",
+            "text": "{mainFooter_links_shopOnline}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": false,
+            "section": "shoppingGuide"
+        },
+        {
+            "linkMetaId": "payment",
+            "link": "/es/en/shopping-guide.html?section=payment&device=app",
+            "text": "{mainFooter_links_payment}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": false,
+            "section": "shoppingGuide"
+        },
+        {
+            "linkMetaId": "shipping",
+            "link": "/es/en/shopping-guide.html?section=shipping&device=app",
+            "text": "{mainFooter_links_shipping}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": false,
+            "section": "shoppingGuide"
+        },
+        {
+            "linkMetaId": "returns",
+            "link": "/es/en/shopping-guide.html?section=orders-returns&device=app",
+            "text": "{mainFooter_links_returns}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": false,
+            "section": "shoppingGuide"
+        },
+        {
+            "linkMetaId": "giftCard",
+            "link": "/es/en/shopping-guide.html?section=gift-card&device=app",
+            "text": "{mainFooter_links_giftCard}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": false,
+            "section": "shoppingGuide"
+        },
+        {
+            "linkMetaId": "giftTicket",
+            "link": "/es/en/shopping-guide.html?section=gift-ticket&device=app",
+            "text": "{mainFooter_links_giftTicket}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": false,
+            "section": "shoppingGuide"
+        },
+        {
+            "linkMetaId": "eticket",
+            "link": "/es/en/shopping-guide.html?section=eticket&device=app",
+            "text": "{mainFooter_links_eticket}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": false,
+            "section": "shoppingGuide"
+        }
+    ],
+    "legal": [
+        {
+            "linkMetaId": "termsOfPurchase",
+            "link": "https://static.bershka.net/4/static/itxwebstandard/docs/termsandconditions/terms_and_conditions_en_ES.pdf",
+            "text": "{mainFooter_links_termsOfPurchase}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": true,
+            "section": "legal"
+        },
+        {
+            "linkMetaId": "privacy",
+            "link": "https://static.bershka.net/4/static/itxwebstandard/docs/privacypolicy/privacy_policy_en_ES.pdf",
+            "text": "{mainFooter_links_privacy}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": true,
+            "section": "legal"
+        },
+        {
+            "linkMetaId": "cookies",
+            "link": "https://static.bershka.net/4/static/itxwebstandard/docs/cookiespolicy/cookies_policy_en_ES.pdf",
+            "text": "{mainFooter_links_cookies}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": true,
+            "section": "legal"
+        }
+    ],
+    "legal2": [
+        {
+            "linkMetaId": "openCookieSettings",
+            "link": "",
+            "text": "{mainFooter_newsletter_cookies_openSettings}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "openCookieSettings",
+            "tsquery": false,
+            "section": "legal2"
+        }
+    ],
+    "legal3": [],
+    "social": [
+        {
+            "linkMetaId": "instagram",
+            "link": "https://www.instagram.com/bershka/",
+            "text": "instagram",
+            "template": [
+                "I"
+            ],
+            "image": "https://static.bershka.net/4/static/itxwebstandard/images/footer/instagram-app@2x.png",
+            "component": "openSocial",
+            "tsquery": false,
+            "section": "social"
+        },
+        {
+            "linkMetaId": "facebook",
+            "link": "https://www.facebook.com/espanabershka/",
+            "text": "facebook",
+            "template": [
+                "I"
+            ],
+            "image": "https://static.bershka.net/4/static/itxwebstandard/images/footer/facebook-app@2x.png",
+            "component": "openSocial",
+            "tsquery": false,
+            "section": "social"
+        },
+        {
+            "linkMetaId": "twitter",
+            "link": "https://www.twitter.com/bershka",
+            "text": "twitter",
+            "template": [
+                "I"
+            ],
+            "image": "https://static.bershka.net/4/static/itxwebstandard/images/footer/twitter-app@2x.png",
+            "component": "openSocial",
+            "tsquery": false,
+            "section": "social"
+        },
+        {
+            "linkMetaId": "tiktok",
+            "link": "https://www.tiktok.com/@bershka",
+            "text": "tiktok",
+            "template": [
+                "I"
+            ],
+            "image": "https://static.bershka.net/4/static/itxwebstandard/images/footer/tiktok-app@2x.png",
+            "component": "openSocial",
+            "tsquery": false,
+            "section": "social"
+        },
+        {
+            "linkMetaId": "snapchat",
+            "link": "https://www.snapchat.com/add/bershkaofficial",
+            "text": "snapchat",
+            "template": [
+                "I"
+            ],
+            "image": "https://static.bershka.net/4/static/itxwebstandard/images/footer/snapchat-app@2x.png",
+            "component": "openSocial",
+            "tsquery": false,
+            "section": "social"
+        },
+        {
+            "linkMetaId": "youtube",
+            "link": "https://www.youtube.com/user/SHOWROOMBSK",
+            "text": "youtube",
+            "template": [
+                "I"
+            ],
+            "image": "https://static.bershka.net/4/static/itxwebstandard/images/footer/youtube-app@2x.png",
+            "component": "openSocial",
+            "tsquery": false,
+            "section": "social"
+        },
+        {
+            "linkMetaId": "pinterest",
+            "link": "https://pinterest.com/bershka/",
+            "text": "pinterest",
+            "template": [
+                "I"
+            ],
+            "image": "https://static.bershka.net/4/static/itxwebstandard/images/footer/pinterest-app@2x.png",
+            "component": "openSocial",
+            "tsquery": false,
+            "section": "social"
+        },
+        {
+            "linkMetaId": "spotify",
+            "link": "https://play.spotify.com/user/bershka",
+            "text": "spotify",
+            "template": [
+                "I"
+            ],
+            "image": "https://static.bershka.net/4/static/itxwebstandard/images/footer/spotify-app@2x.png",
+            "component": "openSocial",
+            "tsquery": false,
+            "section": "social"
+        }
+    ],
+    "APPs": [
+        {
+            "linkMetaId": "contact",
+            "link": "",
+            "text": "{mainFooter_contact_dropdownTitle}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "openContact",
+            "tsquery": false,
+            "section": "APPs"
+        },
+        {
+            "linkMetaId": "requestInvoice",
+            "link": "https://www.bershka.com/integration/mectitofa/web/ticket?brand=B&locale=EN&market=ES",
+            "text": "{mainFooter_links_requestInvoice}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "",
+            "tsquery": false,
+            "section": "APPs"
+        },
+        {
+            "linkMetaId": "settings",
+            "link": "",
+            "text": "{generic_settings}",
+            "template": [
+                "T"
+            ],
+            "image": null,
+            "component": "openSettings",
+            "tsquery": false,
+            "section": "APPs"
+        }
+    ]
+}
